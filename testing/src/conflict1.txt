@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+we are wugs
+=======
+This is not a wug.
+>>>>>>>
